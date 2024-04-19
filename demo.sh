@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "frist git Repo ......"
+echo "frist git Repo ...... USING CLI"
